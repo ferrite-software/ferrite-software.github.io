@@ -86,6 +86,7 @@ body { background-color:#080808; background: linear-gradient(to bottom, #404040,
 #img_6ff3eabd { box-sizing: border-box; vertical-align: top; border-radius: 8px; position:relative; display: inline-block; width:14%; background-color:#808080; background: linear-gradient(to bottom,#808080, #393939 50%, #2C2C2C 50%, #202020); border: 3px solid #202020; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235); height:auto;  }
 #container_3fe39afa { vertical-align: top; position:relative; display: inline-block; width:86%; min-height:79px; background:none;  }
 #container_3fe39afa_padding { margin: 10px; display: block;  }
+.textstyle10 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#AFAFAF; text-shadow: 2px 2px 2px #000000;  }
 #button_66d7729b { vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; width:150px; height:40px; background:none;  }
 #container_4e1cfb75 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:210px; min-width:390px; background:none;  }
 #container_4e1cfb75_padding { margin: 16px; display: block;  }
@@ -95,7 +96,7 @@ body { background-color:#080808; background: linear-gradient(to bottom, #404040,
 #container_2c0aba7c { vertical-align: top; position:relative; display: inline-block; width:86%; min-height:79px; background:none;  }
 #container_2c0aba7c_padding { margin: 10px; display: block;  }
 #button_20f1c961 { vertical-align: bottom; border-radius: 15px; position:relative; display: inline-block; width:150px; height:40px; background:none;  }
-.textstyle10 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#00BC00; text-shadow: 2px 2px 2px #000000;  }
+.textstyle11 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#00BC00; text-shadow: 2px 2px 2px #000000;  }
 #container_7ea920b7 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:88px; min-width:390px; background:none;  }
 #container_7ea920b7_padding { margin: 16px; display: block;  }
 #container_1bfd1d66 { box-sizing: border-box; vertical-align: top; border-radius: 15px; position:relative; display: inline-block; width:84%; min-height:66px; max-width:1044px; background-color:#404040; background: linear-gradient(to bottom,#404040, #1C1C1C 50%, #161616 50%, #101010); border: 3px solid #404040; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235);  }

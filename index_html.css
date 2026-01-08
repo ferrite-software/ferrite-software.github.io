@@ -21,10 +21,10 @@ html, body { min-height: 100% }
 #button_6491e4cb { box-sizing: border-box; vertical-align: top; border-radius: 15px; position:relative; display: inline-block; width:293px; height:78px; background-color:#BF1BF7; background: linear-gradient(to bottom,#BF1BF7, #550C6F 50%, #420956 50%, #2F063D); border: 2px solid #9307C3; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235);  }
 #button_6491e4cb:hover { background-color:#D062F6; background: linear-gradient(to bottom,#D062F6, #5D2C6E 50%, #482256 50%, #34183D); border-color:#9307C3;  }
 #button_6491e4cb:hover span { color:#FFFFFF; }
-#img_2d7023e8:hover { filter: brightness( 85%);  } 
-#img_2c9c4b06:hover { filter: brightness( 85%);  } 
-#img_4caed13e:hover { filter: brightness( 85%);  } 
-#img_3e43f9ae:hover { filter: brightness( 85%);  } 
+#img_2d7023e8:hover { filter: brightness( 80%);  } 
+#img_2c9c4b06:hover { filter: brightness( 80%);  } 
+#img_4caed13e:hover { filter: brightness( 80%);  } 
+#img_3e43f9ae:hover { filter: brightness( 80%);  } 
 body { background-color:#080808; background: linear-gradient(to bottom, #404040, #080808); background-repeat: no-repeat; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
 #container_663a04ec { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:99%; min-height:200px; min-width:390px; background-color:#404040; background: linear-gradient(to bottom,#404040, #1C1C1C 50%, #161616 50%, #101010); border: 3px solid #404040; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235);  }
