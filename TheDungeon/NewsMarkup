@@ -15,11 +15,15 @@ X=0
 Y=0
 XSize=0
 YSize=0
-Data=None
+DataR=NoneNoneNoneNone
+DataG=NoneNoneNoneNone
+DataB=NoneNoneNoneNone
 
 [Image1]
 X=0
 Y=0
 XSize=0
 YSize=0
-Data=None
+DataR=NoneNoneNoneNone
+DataG=NoneNoneNoneNone
+DataB=NoneNoneNoneNone
