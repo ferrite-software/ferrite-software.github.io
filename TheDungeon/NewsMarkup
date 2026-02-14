@@ -1,0 +1,16 @@
+[Page]
+ID=1
+Header=HeaderTest
+HeaderImage=HeadImg
+
+Text1=Test1
+Text2=Test2
+
+Image1=ImgTest1
+Image2=ImgTest2
+
+Date=14.02.2026
+Button1Name=Btn1
+Button1Url=https://ferrite-software.github.io
+Button2Name=Btn2
+Button2Url=https://ferrite-software.github.io/news.html
