@@ -13,8 +13,8 @@ Button2Url=https://ferrite-software.github.io/news.html
 [Image0]
 X=0
 Y=0
-XSize=0
-YSize=0
+XSize=32
+YSize=32
 Scale=1.0
 Angle=0.0
 DataR=NoneNoneNoneNone
@@ -23,9 +23,9 @@ DataB=NoneNoneNoneNone
 
 [Image1]
 X=0
-Y=0
-XSize=0
-YSize=0
+Y=64
+XSize=32
+YSize=32
 Scale=1.0
 Angle=0.0
 DataR=NoneNoneNoneNone
