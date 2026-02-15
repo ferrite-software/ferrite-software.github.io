@@ -2,9 +2,11 @@
 ID=1
 Header=0.3.6!
 Images=1
-Text=Вышла версия The Dungeon 0.3.6. И как вы уже наверное поняли, теперь прямо в игре есть вкладка новостей. Чтобы их не пропустить, кнопка будет подсвечиваться, когда есть новости. В остальном данное обновление скорее большой багфикс... Хотя есть и кое-что новое...
-Date=14.02.2026
-Button1Name=Ченджлог
+Text=TestTest
+NewLine!
+NewLine2!
+Date=15.02.2026
+Button1Name=Changelog
 Button1Url=https://ingvarplay1003.itch.io/the-dungeon/devlog/1134599/thedungeon-035-c-47
 Button2Name=None
 Button2Url=
