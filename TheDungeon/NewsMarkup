@@ -2,14 +2,16 @@
 ID=1
 Header=0.3.6!
 Images=1
-Text=TestTest
-NewLine!
-NewLine2!
+Lines=2
 Date=15.02.2026
 Button1Name=Changelog
 Button1Url=https://ingvarplay1003.itch.io/the-dungeon/devlog/1134599/thedungeon-035-c-47
 Button2Name=None
-Button2Url=
+Button2Url=None
+
+Line0=Test
+Line1=NewLine!
+Line2=NewLine2!
 
 [Image0]
 X=64
