@@ -1,6 +1,6 @@
 Ferrite ActiveExts License Version 1.0
 
-Copyright © Ferrite Software 2022 - 2026
+Copyright Â© Ferrite Software 2022 - 2026
 
 By using any of Ferrite ActiveExts extension or its source code, you acree to the following terms.
 
