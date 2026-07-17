@@ -2,23 +2,23 @@ Ferrite ActiveExts License Version 1.0
 
 Copyright © Ferrite Software 2022 - 2026
 
-By using any of Ferrite ActiveExts extension or its source code, you acree to the following terms.
+By using any of Ferrite ActiveExts extension or its source code, you agree to the following terms.
 
 1. Permission.
 
 You are permitted to:
 
 - Use the extensions in both non-commercial and commercial projects.
-- Modify the source code for personam or project-specific use.
+- Modify the source code for personal or project-specific use.
 - Redistribute the original or modified source code, provided that this license remains included.
 
 2. Attribution.
 
-If a Ferrite ActiveExts extension is used in a released commercial project, you must include the following credit somwhere visible to the player:
+If a Ferrite ActiveExts extension is used in a released commercial project, you must include the following credit somewhere visible to the player:
 
 Uses Ferrite ActiveExts
 
-The credit may appear in the game's credits, About menu, information screen, startup screen, or another clearly visible location.
+The credit may appear in the game's credits, about menu, information screen, startup screen, or another clearly visible location.
 This requirement is appreciated, but not mandotary, fot non-commercial projects.
 
 3. Restrictions.
@@ -37,7 +37,7 @@ Ferrite Software shall not be liable for any damages arising from the use of the
 5. Third-Party Components
 
 Some extensions may include or depend on third-party libraries.
-Those componets remain subject to their ows licenses.
+Those componets remain subject to their own licenses.
 
 6. Changes to This License
 
