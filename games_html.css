@@ -30,9 +30,6 @@ html, body { min-height: 100% }
 #button_38dcda88 { box-sizing: border-box; vertical-align: bottom; border-radius: 8px; position:relative; display: inline-block; width:16%; height:40px; min-width:80px; max-width:180px; background-color:#BF1BF7; background: linear-gradient(to bottom,#BF1BF7, #550C6F 50%, #420956 50%, #2F063D); border: 2px solid #9307C3; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235);  }
 #button_38dcda88:hover { background-color:#D062F6; background: linear-gradient(to bottom,#D062F6, #5D2C6E 50%, #482256 50%, #34183D); border-color:#9307C3;  }
 #button_38dcda88:hover span { color:#FFFFFF; }
-#button_2eed27d { box-sizing: border-box; vertical-align: bottom; border-radius: 8px; position:relative; display: inline-block; width:16%; height:40px; min-width:80px; max-width:180px; background-color:#BF1BF7; background: linear-gradient(to bottom,#BF1BF7, #550C6F 50%, #420956 50%, #2F063D); border: 2px solid #9307C3; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235);  }
-#button_2eed27d:hover { background-color:#D062F6; background: linear-gradient(to bottom,#D062F6, #5D2C6E 50%, #482256 50%, #34183D); border-color:#9307C3;  }
-#button_2eed27d:hover span { color:#FFFFFF; }
 #button_30cbec7a { box-sizing: border-box; vertical-align: bottom; border-radius: 8px; position:relative; display: inline-block; width:16%; height:40px; min-width:80px; max-width:180px; background-color:#BF1BF7; background: linear-gradient(to bottom,#BF1BF7, #550C6F 50%, #420956 50%, #2F063D); border: 2px solid #9307C3; box-shadow: 5px 5px 4px 0px rgba(0, 0, 0, 0.588235);  }
 #button_30cbec7a:hover { background-color:#D062F6; background: linear-gradient(to bottom,#D062F6, #5D2C6E 50%, #482256 50%, #34183D); border-color:#9307C3;  }
 #button_30cbec7a:hover span { color:#FFFFFF; }
