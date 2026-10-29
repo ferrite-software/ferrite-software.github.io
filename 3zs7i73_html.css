@@ -1,0 +1,29 @@
+a { color:#8000FF; } 
+a:visited { color:#8000FF; } 
+a:active { color:#8000FF; } 
+a:hover { color:#C009FE; } 
+
+
+body { background-color:#000000; padding:0; margin: 0; min-height: 100vh; }
+
+.textstyle1 { text-align:left; }
+#container_5937bf07 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:20%; background:none;  }
+#container_5937bf07_padding { margin: 10px; display: block;  }
+.textstyle2 { font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+.textstyle3 { text-align:center; }
+
+
+#container_70082cb5 { 
+  vertical-align: top; 
+  position:relative; 
+  display: flex; 
+  width:100%; 
+  /* Вычитаем высоту верхнего блока из общей высоты экрана */
+  min-height: calc(100vh - 65px); 
+  background:none; 
+  justify-content:center; 
+  align-items:center; 
+}
+
+#container_70082cb5_padding { margin: 10px; display: block;  }
+#audio_650abe15 { vertical-align: bottom; position:relative; display: inline-block; width:286px; height:32px; background:none;  }
